@@ -1,0 +1,5 @@
+[Database]
+url = "sqlite+aiosqlite:///database.db"
+
+[Bot]
+debug_guild=-1

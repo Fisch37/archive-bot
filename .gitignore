@@ -1,0 +1,6 @@
+/venv/
+__pycache__/
+.vscode/
+database.db
+/logs/
+/token
